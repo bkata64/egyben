@@ -1,0 +1,6 @@
+[submodule "a1node"]
+	path = a1node
+	url = https://github.com/bkata64/a1node.git
+[submodule "a1react"]
+	path = a1react
+	url = https://github.com/bkata64/a1react.git
